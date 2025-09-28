@@ -1,2 +1,0 @@
-[submodule "./uart_hoverboard/hoverboard-firmware-hack/"]
-	url = git@github.com:lucysrausch/hoverboard-firmware-hack.git
